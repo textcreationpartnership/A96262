@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Novum lumen chirurgicum extinctum, or, Med. Colbatch's New light of chirurgery put out Wherein the dangerous and uncertain woundcuring of the pretending med. and the base imposture of his quack medicines, are impartially examin'd, describ'd, and evidently confuted and the method and medicines formerly receiv'd, and successfully practis'd, are rationally vindicated from the calumnies of his ignorant and malicious aspersions. : His experiments which he mentions, convicted of falshood; and others what their miscarriages are, annex'd; which he had craftily and knowingly suppress'd. / By W.W. surgeon.</title>
+            <author>W. W., surgeon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96262</idno>
+            <idno type="STC">Wing W149</idno>
+            <idno type="STC">ESTC R204408</idno>
+            <idno type="EEBO-CITATION">43077744</idno>
+            <idno type="OCLC">ocm 43077744</idno>
+            <idno type="VID">151859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151859)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2279:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Novum lumen chirurgicum extinctum, or, Med. Colbatch's New light of chirurgery put out Wherein the dangerous and uncertain woundcuring of the pretending med. and the base imposture of his quack medicines, are impartially examin'd, describ'd, and evidently confuted and the method and medicines formerly receiv'd, and successfully practis'd, are rationally vindicated from the calumnies of his ignorant and malicious aspersions. : His experiments which he mentions, convicted of falshood; and others what their miscarriages are, annex'd; which he had craftily and knowingly suppress'd. / By W.W. surgeon.</title>
+                  <author>W. W., surgeon.</author>
+               </titleStmt>
+               <extent>[4], xii, 13-64 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by Andrew Bell at the Cross-Keys in the Poultrey,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Royal College of Surgeons Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colbatch, John, --  Sir, 1670-1728. --  Novum lumen chirurgicum, or, A new light of chirurgery.</term>
+               <term>Wounds and injuries --  Treatment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151859:1"/>
+            <p>
+               <hi>Novum Lumen Chirurgicum Extinctum;</hi> OR, <hi>Med.</hi> COLBATCH<hi>'s New Light of Chirurgery</hi> Put out.</p>
+            <p>WHEREIN The dangerous and uncertain <hi>Wound-Curing</hi> of the Pretending <hi>Med.</hi> and the Baſe Impoſture of his <hi>Quack Me<g ref="char:EOLhyphen"/>dicines,</hi> are impartially examin'd, de<g ref="char:EOLhyphen"/>ſcrib'd, and evidently confuted: And the Method and Medicines formerly receiv'd, and ſucceſsfully practis'd, are rationally vindicated from the Calum<g ref="char:EOLhyphen"/>nies of his ignorant and malicious Aſperſions.</p>
+            <p>His <hi>Experiments</hi> which he mentions, con<g ref="char:EOLhyphen"/>victed of Falſhood; and others what their Miſ<g ref="char:EOLhyphen"/>carriages are, annex'd; which he had craftily and knowingly ſuppreſs'd.</p>
+            <p>By <hi>W. W.</hi> Surgeon.</p>
+            <p>
+               <hi>London,</hi> Printed, and ſold by <hi>Andrew Bell</hi> at the Croſs-Keys in the <hi>Poultrey,</hi> 1695.</p>
+            <pb facs="tcp:151859:2" rendition="simple:additions"/>
+            <pb facs="tcp:151859:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151859:3" rendition="simple:additions"/>
+            <pb facs="tcp:151859:3"/>
+            <head>To the Hon<hi rend="sup">ble</hi> 
+               <hi>WILLIAM BLATHWAYT</hi> Eſq Secre<g ref="char:EOLhyphen"/>tary of War, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>WERE Might and Power the inſepara<g ref="char:EOLhyphen"/>ble Companions of <hi>Truth,</hi> theſe follow<g ref="char:EOLhyphen"/>ing Sheets need fear no Injury; but ſince by the Self-intereſt of ſome, and Ignorance of others, they are like to meet with ſo many Enemies in the World, I ſhall thankfully own Pro<g ref="char:EOLhyphen"/>vidence in my happy Choice of, and readily recommend <hi>Truth</hi> unto your Zealous and Powerful Protection.</p>
+            <p>The Detecting of Impoſture, which (conceal'd) wou'd render <hi>our</hi> Age ridiculous to all ſucceeding; and
+<pb facs="tcp:151859:4"/>Vindicating of <hi>Truth,</hi> from the ma<g ref="char:EOLhyphen"/>licious and unreaſonable Calumnies of upſtart Pretenders, is my real De<g ref="char:EOLhyphen"/>ſign, and I do verily believe the pow<g ref="char:EOLhyphen"/>erfulleſt Motive to perſwade your Acceptance.</p>
+            <p>I ſhall mention Flattery and Pro<g ref="char:EOLhyphen"/>lixity (the two Diſeaſes of Dedicati<g ref="char:EOLhyphen"/>on) with no other deſign than to a<g ref="char:EOLhyphen"/>void them both; the one being as in<g ref="char:EOLhyphen"/>jurious to your known Ingenuity and Modeſty, as the other wou'd be im<g ref="char:EOLhyphen"/>pertinent in interrupting your more ſerious and fruitful Thoughts, ſo aſ<g ref="char:EOLhyphen"/>ſiduouſly and ſucceſsfully employed for the Honour and Advantage of your Prince and Country: With whoſe joint Affections that you may ever continue to be bleſs'd, ſhall al<g ref="char:EOLhyphen"/>ways be the hearty Prayer of,</p>
+            <closer>
+               <salute>Honoured Sir,</salute> 
+               <signed>Yours in all humble Duty, and ſincere Inclination, <hi>W. W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="i" facs="tcp:151859:4"/>
+            <head>In Amicum veré doctum, Authorem <hi>Luminis Chirurgici extincti,</hi> qui novaturientis de nomine Medici parum juſté gloriantis, inſolen<g ref="char:EOLhyphen"/>tiam, &amp; inſcitiam, modeſte redar<g ref="char:EOLhyphen"/>guit, &amp; nervoſe refutavit.</head>
+            <l>C<g ref="char:V">Ʋ</g>m Sciolus, nimium jactans captator avarus,</l>
+            <l>Se quaerens, populo verba doloſa daret.</l>
+            <l>Qui ſibi cum ſoli ſaperet, nova dogmata ponens,</l>
+            <l>Sanandi innocuos improbat iſte modos.</l>
+            <l>Contempſit veterum curas, quas non capiebat,</l>
+            <l>Dignus qui canibus pharmaca ſola paret.</l>
+            <l>En praeclarus adeſt Autor, qui falſa refellens</l>
+            <l>Mendacis calami monſtra maligna fugans.</l>
+            <l>Accinctus veri clypeo ſimul at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſtetiſſet,</l>
+            <l>Mergitur in tenebris <hi>Lumen</hi> inane ſuis.</l>
+            <l>Jurgia vanneſcunt; chymicé medicina pro<g ref="char:EOLhyphen"/>batur,</l>
+            <l>Pharmaca<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ignari pulverulenta cadunt.</l>
+            <l>Celementi nimium debet canicida patrono,</l>
+            <l>Nec tamen imprudens deſinit eſſe petax.</l>
+            <l>Haec nimium lenis, doctuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> retexuit Autor,</l>
+            <l>Quod contrá blateret nil medicaſter habet.</l>
+            <closer>
+               <signed>G. A.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb n="ii" facs="tcp:151859:5"/>
+            <head>In Amicum doctum, <hi>G. W.</hi> Autorem Luminis Chirurgici extincti.</head>
+            <l>SIccine Decoctor ſtat Pharmacopaeus in armis,</l>
+            <l>Indicens medico bella cruenta Choro.</l>
+            <l>Nec pudet hunc, futilem Regi ſacrare li<g ref="char:EOLhyphen"/>bellum,</l>
+            <l>Cui nec ineſt veri mica minuta ſalis.</l>
+            <l>Autor adeſt, flatu nova lumina diſſipat: ipſe</l>
+            <l>Accenſor fugiens territa terga dedit.</l>
+            <l>Et tua quam jactas medicina ſoluta faceſ<g ref="char:EOLhyphen"/>ſit,</l>
+            <l>Scommata<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Exemplum corruit omne tuum.</l>
+            <l>Macte potens vindex, vigeas doctiſſime victor,</l>
+            <l>Comprecor ut foelix progrediare, vale.</l>
+            <closer>
+               <signed>I. A.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="iii" facs="tcp:151859:5"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THIS is not deſigned for thy hand before the Peruſal of a little Book, with a great Name, viz. <hi>Novum Lumen Chi<g ref="char:EOLhyphen"/>rurgicum:</hi> I ſhall not much quarrel a<g ref="char:EOLhyphen"/>bout the Name, nor uſe any ſiniſter En<g ref="char:EOLhyphen"/>deavours to obnubilate this pretended Luminary, other than by an impartial Examen with how much Juſtice it's in<g ref="char:EOLhyphen"/>titled to ſuch a Name, or the Author to ſuch large and ſpecious Pretenſions equally famous for nothing elſe: But I am willing to believe the Name was gi<g ref="char:EOLhyphen"/>ven
+<pb n="iv" facs="tcp:151859:6"/>at the Bookseller's Requeſt, for a Set-of to the Merchandize, there being little hopes of a Second Impreſſion. How<g ref="char:EOLhyphen"/>ever, he gives thee a large Account of the <hi>hearty</hi> and <hi>vigorous Proſecution</hi> of his Studies, for no leſs than ſeven Years, in order to his Attainment of this famous Nothing, and I hope will give us leave to ſay, <hi>Parturiunt mon<g ref="char:EOLhyphen"/>tes, naſcetur ridiculus mus.</hi>
+            </p>
+            <p>Nevertheleſs, if the Pretence of a good Intention be meritorious to the Juſtification of a World of <g ref="char:V">Ʋ</g>ntruths, here is one of a thouſand; viz. <hi>the Relief of thoſe Worthies who from a Principle of Love and Bravery, are daily expoſing their Lives for the Service of their King and Coun<g ref="char:EOLhyphen"/>try;</hi> who before the finding out of his Medicines (though but ſcratch'd with the Point of a Bodkin) were always irrecoverably loſt.</p>
+            <pb n="v" facs="tcp:151859:6"/>
+            <p>His firſt Experiments were upon Dogs, and ſuch like; and I do verily believe it had been a ſingular Kindneſs done the World never to have raiſed them higher, thoſe Animals being but too too good Subjects for ſuch an Ope<g ref="char:EOLhyphen"/>rator. He ſays he had above an hundred of them, and <hi>wounded them all de<g ref="char:EOLhyphen"/>ſperately.</hi> I am fully ſatisfied they all died ſave one, who had his Leg cut off.</p>
+            <p>As for thoſe three Experiments made before my Lord <hi>Cutts,</hi> I ſhall give thee the Relation of Matter of Fact from a Perſon of both undoubted Honour and Ingenuity, <hi>viz.</hi> Lieutenant Colonel <hi>Newton,</hi> then Lieutenant Colonel to my Lord: With whom I being in Com<g ref="char:EOLhyphen"/>pany one day in <hi>Southwark,</hi> ſome few days after the Trial of theſe Experi<g ref="char:EOLhyphen"/>ments, I deſired him to give me ſuch Account of that Matter as I might de<g ref="char:EOLhyphen"/>pend
+<pb n="vi" facs="tcp:151859:7"/>upon: He told me <hi>himſelf had been preſent at them, and that two of the three were already dead; but that the Doctor</hi> (as he called him) <hi>told him the third was alive, though run away; however,</hi> he believed him to have accompanied the reſt, and like<g ref="char:EOLhyphen"/>wiſe told the <hi>Doctor</hi> that <hi>it was like to prove a fatal Campagne for Brutes,</hi> but <hi>hoped it would be a better for Mankind.</hi> He withal told me, that my <hi>Lord</hi> was ſufficiently weary of his Ex<g ref="char:EOLhyphen"/>periments, and believed he would take no farther notice of him: As for the Souldier, all that knew his Condition, believed his greateſt Danger to conſiſt in that of his having fallen into ſuch Hands, whatever Excuſe he is able to coin to the contrary.</p>
+            <p>I believe he ſpeaks true in ſaying, <hi>that his Failing in his Pretenſions was the Cauſe why his Majeſty did not
+<pb n="vii" facs="tcp:151859:7"/>then imploy him.</hi> I am ſure if he be right informed, he hath the ſame or more ſtill.</p>
+            <p>He ſays <hi>of all the Patients he had in</hi> Flanders, <hi>there was but one died.</hi> And truly that was no great Wonder, conſidering the Smalneſs of their Num<g ref="char:EOLhyphen"/>ber: however, perhaps it may be found to be a Miſtake by and by.</p>
+            <p>I am ſo far from doubting the Truth of Mr. <hi>Cowper</hi>'s Diſcovering his Ex<g ref="char:EOLhyphen"/>ternal Medicine to be a conſiderable Cauſtick, that I am able to demonſtrate it againſt all Oppoſition; for until by its frequent Application there be a <hi>Cruſt</hi> or <hi>Eſchare</hi> induced upon the Part, his Patients never fail to complain of intolerable gnawing Pains: By which he fearing his Medicine's falling into Diſgrace, was generally obliged to allay its Sharpneſs by a little Smart-Money, as we ſhall hear by and by.</p>
+            <pb n="viii" facs="tcp:151859:8"/>
+            <p>In his next Paragraph he ſays, <hi>his Medicines cure all Wounds without Suppuration; but Suppuration once begun, they are incomparable Di<g ref="char:EOLhyphen"/>geſtives.</hi> But this is no more than one of his accuſtomed Contradictions, in ſaying, that a thing is the moſt improper, and yet the moſt proper for producing the ſame effect.</p>
+            <p>As for his treating of Gun-ſhot Wounds where the Bones are ſhattered, he ſays, by his Method, the bringing a<g ref="char:EOLhyphen"/>way of the Splinters is neither hazar<g ref="char:EOLhyphen"/>dous nor troubleſom. By which I un<g ref="char:EOLhyphen"/>derſtand he is changeable in his Opi<g ref="char:EOLhyphen"/>nion; for my ſelf, and ſeveral others not long ſince, have heard him affirm, that <hi>there was no Occaſion for the Re<g ref="char:EOLhyphen"/>moval of any ſuch Splinters; for that by Virtue of his Medicine, he could bring them to a Reunion in a very
+<pb n="ix" facs="tcp:151859:8"/>ſmall time.</hi> But his ninth Experi<g ref="char:EOLhyphen"/>ment ſeems to have taught him more Wit: He ſays <hi>he might have enlar<g ref="char:EOLhyphen"/>ged the Number of his Experiments:</hi> And truly ſo he might, with the ſame Juſtice he hath uſed them, as we ſhall ſee hereafter. As for his Stopping great Fluxes of Blood, we ſhall refer him to his <hi>thirteeenth Experiment.</hi>
+            </p>
+            <p>But as for <hi>his being poiſoned,</hi> I could never find even his beſt Friends inclinable to give any Credit to it, fur<g ref="char:EOLhyphen"/>ther than believing him (by a Miſtake) to have upon a certain time taken ſome of his own Tincture, for the trial of an Experiment; and it's very probable that his two Friends might be as ignorant as himſelf: however, it is certain that it is capable to produce all thoſe Symp<g ref="char:EOLhyphen"/>toms of Poiſoning, which either himſelf or his Friends pretended to have. Nor was it at all likely that any Perſon
+<pb n="x" facs="tcp:151859:9"/>(how wicked ſoever) ſhould either trou<g ref="char:EOLhyphen"/>ble or hazard themſelves by ſuch an Action, conſidering that any one (though never ſo ſhort-ſighted) muſt needs diſ<g ref="char:EOLhyphen"/>cover the Period of his already expiring Pretenſions: Nevertheleſs, himſelf cannot diſown his having very ill de<g ref="char:EOLhyphen"/>ſerved of ſeveral, or almoſt all Perſons of that Profeſſion. For inſtance; A Souldier in the Engliſh Guards having received a conſiderable Wound in the Breaſt, his Officer ſent for Mr. <hi>Col<g ref="char:EOLhyphen"/>batch:</hi> But in the interim, Mr. <hi>Harris,</hi> Chirurgion to the Regiment, came and dreſſed the Patient after the uſual Me<g ref="char:EOLhyphen"/>thod. Soon after Mr. <hi>Colbatch</hi> came; who without any regard to the former Dreſſing, was going to make his Ap<g ref="char:EOLhyphen"/>plication. But not being ſuffered by Mr. <hi>Harris,</hi> he went away and maliciouſly reported to many Perſons in the Camp, that the Man was dead for want of his Application: Beſides others, he repor<g ref="char:EOLhyphen"/>ted
+<pb n="xi" facs="tcp:151859:9"/>this to the Major and two Captains of the Fuſileers; who ſending next Morning to inform themſelves of the Truth, were ſatisfied to his no ſmall Diſgrace, that the Souldier had not only eſcaped all Danger of Death, but even that of his Hands: But this is but one of many.</p>
+            <p>The Reaſon, as he ſaith, why he hath uſed ſo few Terms of Art, is, becauſe he deſigns Plainneſs; but I ſay it is, be<g ref="char:EOLhyphen"/>cauſe he had none, except he hath very lately got them. In my Opinion he is very excuſable in not mentioning what his Medicines are, becauſe the Know<g ref="char:EOLhyphen"/>ledg of them would not only derogate from their Reputation, which is princi<g ref="char:EOLhyphen"/>pally ſupported by this Secrecy, but alſo impede their Vending, which is the Au<g ref="char:EOLhyphen"/>thor's chief Deſign.</p>
+            <pb n="xii" facs="tcp:151859:10"/>
+            <p>Now at laſt he is deſigned to give the World an extraordinary Taſte of his Modeſty and Civility, in vouchſafing to rank himſelf amongst ſuch Perſons as <hi>Helmont, Willis, Needham;</hi> and does tell us, that his Authority is no leſs ſufficient to recommend a Medicine (though unknown to the World, and even himſelf too) than any of theirs was.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="13" facs="tcp:151859:10"/>
+            <head>Novum Lumen Chirurgi<g ref="char:EOLhyphen"/>cum extinctum.</head>
+            <p>THE far greater Part of this Treatiſe (which I am now about to make ſome Re<g ref="char:EOLhyphen"/>marks upon) ſeems rather deſigned for the Amuſement of the unthinking Reader, and ſwelling of the Book to ſuch a convenient Bulk, as may in ſome meaſure conceal the Defect and Barrenneſs of its Author's Inventions, than either the ſupport of an old, or the laying down of any new <hi>Hypotheſis;</hi> which though he rea<g ref="char:EOLhyphen"/>dily promiſes, he no where performs that which he pretends to, being no more than an incoherent, incon<g ref="char:EOLhyphen"/>ſiſtent, mangled, nay even murdred
+<pb n="14" facs="tcp:151859:11"/>Parcel of Collections, and many of thoſe neither from the firſt nor beſt hands.</p>
+            <p>After ſome, as ſilly as impertinent Reflections upon Surgeons and their Methods, <hi>&amp;c.</hi> he ſays, that his preſent Undertaking will be altogether mai<g ref="char:EOLhyphen"/>med and imperfect, without giving us firſt ſome Account of <hi>Nutrition;</hi> and truly I may ſay ſo it is with it.</p>
+            <p>At firſt glance I expected he would begin with the Nutrition of a <hi>Foetus</hi> in the Womb; but I doubt he was afraid of an Abortion, which hath made him change his Subject into that of an <hi>Adult.</hi>
+            </p>
+            <p>in his <hi>3d</hi> and <hi>5th Pages</hi> he goes on with this Account, without the leaſt mentioning any of thoſe Authors Names from whom he ſtole it.</p>
+            <p>In his <hi>6th</hi> and <hi>7th Pages,</hi> he talks confuſedly of Fire in the Blood, and ſeems to incline ſomewhat to the Be<g ref="char:EOLhyphen"/>lief of it; but not daring to allow it
+<pb n="15" facs="tcp:151859:11" rendition="simple:additions"/>either <hi>Wood, Turff,</hi> or <hi>Sea-Coal,</hi> is not a little troubled to find a <hi>Pabulum</hi> for it.</p>
+            <p>In his <hi>8th</hi> and <hi>9th Pages,</hi> he hath ta<g ref="char:EOLhyphen"/>ken too much pains in making and anſwering an Objection, which muſt by and by fall together. For if by <hi>Mat<g ref="char:EOLhyphen"/>ter</hi> he means that which is ſuppurated from Wounds, the Objection is alto<g ref="char:EOLhyphen"/>gether falſe; for ſo ſoon as a Wound begins to matter, the Fever for the moſt paſt remits. If this be not his Meaning, I doubt neither of us know it. He ſeems likewiſe at no ſmall loſs about the Reaſons of ſo great and ſudden Waſte made upon fat Perſons by violent Fevers, if there be no Flame in the Blood: but that pro<g ref="char:EOLhyphen"/>ceeds from his Ignorance of the <hi>Ani<g ref="char:EOLhyphen"/>mal Oeconomy,</hi> together with his For<g ref="char:EOLhyphen"/>getfulneſs of <hi>Sanctorius</hi>'s Experiment, which himſelf is to mention by and by.</p>
+            <p>In the <hi>10th</hi> he goes on with his Story, more confuſed than the Liquor he is there pleaſed to term ſo.</p>
+            <pb n="16" facs="tcp:151859:12"/>
+            <p>But I cannot omit taking notice of his Civility to <hi>Sanctorius</hi> in his <hi>11th Page,</hi> in allowing him the Honour of his own Obſervation, becauſe it is more than he hath done to any other Perſon hitherto in all his Account, ei<g ref="char:EOLhyphen"/>ther of Sanguification or Nutrition, though it be all at beſt but borrowed, and much of it at ſecond hand.</p>
+            <p>In his <hi>12th</hi> he carries on his Con<g ref="char:EOLhyphen"/>jecture of Nutrition by the <hi>Serum;</hi> but hath borrowed ſo much Modeſty as to own his Ignorance of Nature's adapting the Pores and Particles to each other for that Purpoſe; by which Means he hath ſaved me the labour of doing it for him.</p>
+            <p>His <hi>13th, 14th</hi> and <hi>15th,</hi> are taken up with Three Experiments, which he brings for the Proof of all Vegeta<g ref="char:EOLhyphen"/>bles being nouriſhed by Water only: the firſt ſeems to be from ſome <hi>Honeſt Gardiner,</hi> the ſecond is <hi>Helmont's,</hi> and the third the <hi>Famous Boyle</hi>'s.</p>
+            <pb n="17" facs="tcp:151859:12"/>
+            <p>I am fully ſatisfied they are the tru<g ref="char:EOLhyphen"/>eſt and beſt part of his Book; and therefore ſhall neither repeat nor quarrel at them, they being already ſufficiently injured by coming thro' his hands.</p>
+            <p>In his <hi>16th,</hi> when the danger is al<g ref="char:EOLhyphen"/>moſt over, he is fallen into an inextri<g ref="char:EOLhyphen"/>cable Difficulty; which ſince himſelf pretends no where to remove, I hope will have the Patience to ſee the total Subverſion and utter Ruine of his ill built, and worſe ſupported Hypotheſis.</p>
+            <p>The Difficulty is this; That not<g ref="char:EOLhyphen"/>withſtanding all Vegetables have their Nutrition and Increaſe from Water only, do nevertheleſs afford us ſuch Subſtances as are neither eaſily mixed with, nor indeed obtainable from Water.</p>
+            <p>In his <hi>17th Page</hi> he ſays, that <hi>he thinks</hi> there is no Difference, only <hi>ſe<g ref="char:EOLhyphen"/>cundum Majus &amp; Minus,</hi> between thoſe Waſtes made by inſenſible Tran<g ref="char:EOLhyphen"/>ſpiration
+<pb n="18" facs="tcp:151859:13"/>which are natural, and a Wound made by Force which is pre<g ref="char:EOLhyphen"/>ternatural. Had he not ſaid <hi>he thought,</hi> I ſhould have thought he ſpoke <hi>ironi<g ref="char:EOLhyphen"/>cally,</hi> meaning all the Difference in the World: I am ſure I think ſo, for</p>
+            <p>Firſt, There is a <hi>material</hi> Diffe<g ref="char:EOLhyphen"/>rence; that which we waſte by inſen<g ref="char:EOLhyphen"/>ſible Tranſpiration being thin, volatile and excrementitious; but this which Nature doth ſupply for the re-union of a divided Subſtance, a Juice <hi>Bal<g ref="char:EOLhyphen"/>ſamick fixed,</hi> and neceſſary.</p>
+            <p>Secondly, There is a <hi>formal</hi> Dif<g ref="char:EOLhyphen"/>ference: for,</p>
+            <p>In inſenſible Tranſpiration the <hi>Ef<g ref="char:EOLhyphen"/>fluvia</hi> can make no Digreſſion in their Paſſage along the <hi>Fibres,</hi> until they eſcape by the Pores of the Cuti<g ref="char:EOLhyphen"/>cle; but in a Wound the mentioned Juice drilling along the <hi>Fibres</hi> after its accuſtomed manner, until it comes to the Diviſion, where it immediately drops down, without ſome previous
+<pb n="19" facs="tcp:151859:13"/>Information from his Almighty Pou<g ref="char:EOLhyphen"/>der.</p>
+            <p>But now he ſeems to deſign ſome faint Approaches to the Matter: he ſuppoſes a Wound to be made, <hi>&amp;c.</hi>
+            </p>
+            <p>But here are ſo many ſuppoſitions, that they require to be ſummed up together:</p>
+            <p>In the <hi>17th, When there is a Divi<g ref="char:EOLhyphen"/>ſion made.</hi>
+            </p>
+            <p>In the <hi>18th, Suppoſe a Diviſion to be made, and it's no matter where.</hi>
+            </p>
+            <p>In the ſame <hi>Page, Now let a Wound be made where it will, and how, it mat<g ref="char:EOLhyphen"/>ters not.</hi>
+            </p>
+            <p>Now in the <hi>20th,</hi> we are come to the fourth, and I hope laſt Suppo<g ref="char:EOLhyphen"/>ſition: for the other three have been very uſeleſs and impertinent.</p>
+            <p>He ſays, <hi>Let a Diviſion be made in any of the Parts of the Body, which we call a Wound; and how it's made it matters not,</hi> &amp;c.</p>
+            <pb n="20" facs="tcp:151859:14"/>
+            <p>
+               <hi>The nutritious Juice is immediately brought to the Ends of the wounded Veſſels:</hi> For their Reparation and Reunion, which (as he ſays) would ſoon be effected were not <hi>Nature op<g ref="char:EOLhyphen"/>preſſed, and her regular Operations im<g ref="char:EOLhyphen"/>peded,</hi> by the common Methods and Medicines of Chirurgions.</p>
+            <p>Now although almoſt every Page be larded with ſuch groundleſs Aſ<g ref="char:EOLhyphen"/>perſions upon Chirurgions and their Medicines, I ſhall this once for all, a little weigh and conſider the Reaſons which he hath brought againſt the common Methods and Medicines; as alſo thoſe which may be brought a<g ref="char:EOLhyphen"/>gainſt his particular Method and Medicine.</p>
+            <p>And firſt he ſays, <hi>the common are of that Nature that they greatly relax the divided Fibres; ſo that they cannot contain the nutritive Matter brought to them, but let it paſs into the Wound:
+<pb n="21" facs="tcp:151859:14"/>where it is by the ſame Medicines, cor<g ref="char:EOLhyphen"/>rupted and turned into Matter.</hi>
+            </p>
+            <p>I anſwer; If by relaxing, he means mollifying, reſtoring, and reducing the Ends of theſe Fibres; who being irritated by the Senſe of ſome exter<g ref="char:EOLhyphen"/>nal Injury, had convulſed and retired themſelves from their proper Situati<g ref="char:EOLhyphen"/>on and Offices; we ſhall make no great Difficulty to acknowledg it both the Effect, and ſome part of the Deſign of our common Medicine.</p>
+            <p>But if by relaxing, he means the en<g ref="char:EOLhyphen"/>larging of the Fibres to a more than ordinary or convenient Wideneſs: I anſwer; They have but little Ten<g ref="char:EOLhyphen"/>dency ſo to do, becauſe the moſt part of our digeſtive Medicines conſiſt of conſiderably Reſtringent, Anodyne and Emplaſtick Parts: and therefore (except very well malaxed) are not capable of inſinuating themſelves into the Fibres to that degree which is e<g ref="char:EOLhyphen"/>ven convenient for the Excluſion of
+<pb n="22" facs="tcp:151859:15"/>the ſharper part of the Air, the Ad<g ref="char:EOLhyphen"/>miſſion of which is often-times the Cauſe of a total Obſtruction.</p>
+            <p>But next, <hi>when the Matter is paſſed into the Wound,</hi> let us ſee what Power the aforeſaid Medicine hath to bring it to Corruption; which himſelf ſays, <hi>cannot be brought to paſs without a Fer<g ref="char:EOLhyphen"/>mentation.</hi>
+            </p>
+            <p>We ſhall ſuppoſe our common Me<g ref="char:EOLhyphen"/>dicine to be <hi>Turpentine,</hi> and the <hi>Yolk of an Egg:</hi> Now every one knows that neither of theſe apart, nor both of them together, have the leaſt Ten<g ref="char:EOLhyphen"/>dency to the producing of any of the five Sorts of Fermentation; nay, (as was hinted before) they conſiſting of ſuch Parts, are ſo far from being the Cauſe of, that they naturally and powerfully oppoſe themſelves unto, the very leaſt Appearance sof it, even in the nutritive Juice it ſelf ſome<g ref="char:EOLhyphen"/>times diſpoſed that way.</p>
+            <pb n="23" facs="tcp:151859:15"/>
+            <p>Nor is there any thing more rea<g ref="char:EOLhyphen"/>ſonable, conſidering that the Branches of the Sulphur are at all times ready to engage, ſheath and detain the ſharp<g ref="char:EOLhyphen"/>pointed Acids; by which there neceſ<g ref="char:EOLhyphen"/>ſarily follows a <hi>Coagulation,</hi> the moſt oppoſite Act in Nature to <hi>Fermenta<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>I have one thing more to add con<g ref="char:EOLhyphen"/>cerning our common Medicine; and it is, that neither Tincture, Solution, nor Pouder, nor any other thing of a different Body, is either able to ſup<g ref="char:EOLhyphen"/>ply its Place, or anſwer its Intention in any Fleſh-Wound, where there is conſiderable loſs of Subſtance.</p>
+            <p>For by its <hi>analogous</hi> Subſtance and Conveniency of Body, it in ſome mea<g ref="char:EOLhyphen"/>ſure ſupplies the loſs of Subſtance by giving a Conveniency to the Fibres to enlarge themſelves betwixt the Branches of its Body; and by this means not only cheriſheth them by its natural Warmth, but ſupports
+<pb n="24" facs="tcp:151859:16"/>their (as yet young and tender) Tex<g ref="char:EOLhyphen"/>ture, until the Reunion be wholly perfected. An Inſtance of which is plainly to be ſeen where the Appli<g ref="char:EOLhyphen"/>cation of our Medicine is continued (though never ſo ſhort while) be<g ref="char:EOLhyphen"/>yond its due time, in encouraging In<g ref="char:EOLhyphen"/>carnation to a more than convenient degree.</p>
+            <p>Now ſince I have (as I hope) more than ſufficiently vindicated our Medi<g ref="char:EOLhyphen"/>cine, both by Experience and Reaſon, from thoſe unjuſt Aſperſions which our <hi>Antagoniſt</hi> hath caſt upon it without either, it may not be impro<g ref="char:EOLhyphen"/>per to take a View of the Effects of his Medicine alſo in this place.</p>
+            <p>In the firſt place I ſhall readily diſ<g ref="char:EOLhyphen"/>charge it from the firſt Particular which our Meidcine is charged with, viz. <hi>Relaxing of the Fibres,</hi> and ſhall make appear it only corrodes them.</p>
+            <p>Let us know, ſecondly, whether it <hi>corrupts the nutritive Juice by cauſing a Fermentation.</hi>
+            </p>
+            <pb n="25" facs="tcp:151859:16"/>
+            <p>I am ſure if a corroſive Acid, that's ready to quarrel with even Metals themſelves, can contribute, it is not wanting: But if once it enter into the Maſs of Blood, inſtead of dividing its Texture, it will go near to petri<g ref="char:EOLhyphen"/>fy it; and after that, there is no fear of a Fever either intermitting or con<g ref="char:EOLhyphen"/>tinual.</p>
+            <p>I ſhall ſum up its Effects in a few words; being applied to a recent Wound, the Acid Particles imme<g ref="char:EOLhyphen"/>diately fix themſelves into the moſt ſenſible Parts, cauſing them to retire by way of Convulſion as far as it is poſſible for them, and forcing them to excern all they contain in or about their Orifices: if the firſt fails, a ſe<g ref="char:EOLhyphen"/>cond Application induces an <hi>Eſ<g ref="char:EOLhyphen"/>char,</hi> except it be diluted with an extraordinary quantity of Water; and then it only keeps the Place raw, and as himſelf ſays, <hi>without any good Digeſtion;</hi> but if applied to a Bone,
+<pb n="26" facs="tcp:151859:17"/>it is infallibly condemned to a perpe<g ref="char:EOLhyphen"/>tual Exfoliation, as you may ſee in his <hi>9th Experiment.</hi>
+            </p>
+            <p>I have ſcarce any room or time now to take notice of his Complai<g ref="char:EOLhyphen"/>ſance to the <hi>Gentleman who writ that late Learned Treatiſe of Intermitting Fevers,</hi> ſince he abſolutely pretends to be the only competent Judg; I ſhall only ſay that <hi>he</hi> who hath the Honour of his good Opinion, is not ſo much obliged to him for it, as <hi>thoſe</hi> who have formerly treated of that Subject, are unmannerly and igno<g ref="char:EOLhyphen"/>rantly cenſured by him.</p>
+            <p>He goes on in his <hi>23d and 24th Pages</hi> with a deal of falſe Suppoſiti<g ref="char:EOLhyphen"/>ons, without the leaſt Pretence to ei<g ref="char:EOLhyphen"/>ther Juſtice or Reaſon, and therefore ſhall receive no Anſwer.</p>
+            <p>But now he comes to another ſilly ſuppoſition; the Ground of which wehave already removed, and it <hi>is this:</hi>
+            </p>
+            <pb n="27" facs="tcp:151859:17"/>
+            <p>
+               <hi>And if thoſe Hazards attend the Cure of external Fleſh-Wounds, what is to be expected in Wounds within the Cavity of the Body, where the Lungs, Liver,</hi> &amp;c. <hi>are wounded?</hi>
+            </p>
+            <p>I anſwer; I look upon them at leaſt to be mortal if they meet with no other Treatment than what either he or his <hi>Medicine</hi> is able to afford them.</p>
+            <p>He likewiſe ſays, that if any ſuch Accident come to be cured, the <hi>Sur<g ref="char:EOLhyphen"/>geon</hi> looks upon it as a Miracle, and in no reſpect to be attributed either to his own Intention or Judgment.</p>
+            <p>I anſwer; His Miſtake proceeds from his little Reading, and leſs Con<g ref="char:EOLhyphen"/>verſe with Men of Senſe and Experi<g ref="char:EOLhyphen"/>ence in that Profeſſion; any one of them being able to give him more In<g ref="char:EOLhyphen"/>ſtances of Cures of that Nature, and Reaſons for them, than ever he ſaw Wounds.</p>
+            <p>
+               <hi>But to bring a Wound in the Lungs, Liver or Guts,</hi> &amp;c. <hi>to Suppuration,</hi> he ſays, <hi>brings certain Death.</hi>
+            </p>
+            <pb n="28" facs="tcp:151859:18"/>
+            <p>If the poor Man knew what <hi>Suppu<g ref="char:EOLhyphen"/>ration</hi> were, he would never harp ſo much upon that ſtring, it being no more than what himſelf hath fre<g ref="char:EOLhyphen"/>quently owned, though under ano<g ref="char:EOLhyphen"/>ther Name, <hi>viz.</hi> the bringing of the nutritious Juice to the Ends of the divided Fibres, or the ouzing out of ſome little Blood, or other Liquor, from their proper Veſſels.</p>
+            <p>But perhaps he will object, That it is not the bringing of it to the Ex<g ref="char:EOLhyphen"/>tremities, but its paſſing into the Wound which he quarrels at.</p>
+            <p>I anſwer; To ſuppoſe that Juice or other Liquor to have been natu<g ref="char:EOLhyphen"/>rally accuſtomed to drill along the Fibres before their Diviſion, and now to ſtop exactly at the Diviſion, and go no further, were to allow it a greater ſhare of Senſe, nay Reaſon, than himſelf can pretend to.</p>
+            <p>The reſt of the <hi>Page</hi> is not worth reading, further than to let one know
+<pb n="29" facs="tcp:151859:18"/>that it is ſo. But here comes the Dif<g ref="char:EOLhyphen"/>ficulty in the <hi>twenty 6th Page,</hi> how to ſtop the Blood when a large Blood-Veſſel is wounded.</p>
+            <p>I anſwer; It muſt be by other means than his Pouder; for although it be a conſiderable Cauſtick, it is not ſufficient for that purpoſe, as we ſhall ſee in the <hi>13th Experiment,</hi> and elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>He is much miſtaken when he ſays, that upon the <hi>ſlighteſt Occaſion we al<g ref="char:EOLhyphen"/>ways confine our Patients to a low Diet, and let them blood:</hi> For we never do either, without apparent Reaſons.</p>
+            <p>In his <hi>twenty 7th</hi> he hath a notable Diſh of <hi>Billingſgate,</hi> and ought to have had Oiſter-Sauce e're it had been preſented the King's Table.</p>
+            <p>He omits <hi>Bandages</hi> as being alto<g ref="char:EOLhyphen"/>gether unneceſſary;a nd truly ſo they are to his Intention, except it were one to hang himſelf withal ſo ſoon as he is a little more fully diſco<g ref="char:EOLhyphen"/>vered to the World.</p>
+            <pb n="30" facs="tcp:151859:19"/>
+            <p>In his <hi>twenty 9th Page</hi> he gives an Account of his <hi>Method of Cure.</hi> Which hath ſeveral Pieces of Rarity in it.</p>
+            <p>For Firſt, It never was nor will be made uſe of by any other Perſon be<g ref="char:EOLhyphen"/>ſides himſelf.</p>
+            <p>Secondly, He ſtitches cloſe up all Wounds without diſtinction, even <hi>Gun-ſhot Wounds</hi> themſelves.</p>
+            <p>The reſt of his Book (for want of better Stuff) is filled up with a par<g ref="char:EOLhyphen"/>cel of as falſe as unreaſonable Aſſer<g ref="char:EOLhyphen"/>tions, praiſing his own, and condem<g ref="char:EOLhyphen"/>ning of our Medicines; but of thoſe enough already.</p>
+            <p>I ſhall only touch a few of them as we go along, by retorting ſome, and laughing at others.</p>
+            <p>
+               <hi>Firſt,</hi> His external Medicine cau<g ref="char:EOLhyphen"/>ſes exceſſive Pain when firſt applied.</p>
+            <p>
+               <hi>Secondly,</hi> There is always a conſi<g ref="char:EOLhyphen"/>derable deal of Pain afterwards, and the Parts ſo ſtiff and ſore, as if they never would be well.</p>
+            <pb n="31" facs="tcp:151859:19"/>
+            <p>
+               <hi>Thirdly,</hi> If there hath been no Pain at all before, it never fails in a few Moments after the Application to bring a troop of ill Symptoms up<g ref="char:EOLhyphen"/>on the Part; ſuch as Swellings, In<g ref="char:EOLhyphen"/>flammodons, <hi>&amp;c.</hi> which (by the way) is a ſure Argument that it is a ſharp Medicine, and a Cauſtick, though he deny it.</p>
+            <p>
+               <hi>Fourthly,</hi> His Medicine hath al<g ref="char:EOLhyphen"/>ways a Fever for its Companion: for ſeveral People who have been woun<g ref="char:EOLhyphen"/>ded, and by our Medicine brought to a fair way of Recovery, have in a very ſmall time by the uſe of his Me<g ref="char:EOLhyphen"/>dicine been thrown into Fevers, ac<g ref="char:EOLhyphen"/>companied with violent Pains in the Parts.</p>
+            <p>And again; The ſame Perſons by quitting of his Method and Medicine, and uſing of ours, have been as ſud<g ref="char:EOLhyphen"/>denly recovered: As may be ſeen in our <hi>15th</hi> Remark. The fifth being only a Repetition, I ſhall take no no<g ref="char:EOLhyphen"/>tice of it.</p>
+            <pb n="32" facs="tcp:151859:20"/>
+            <p>In his <hi>thirty 4th Page</hi> he makes and anſwers a terrible Objection, <hi>viz.</hi> How it's poſſible for him, without bringing a Wound to Suppuration, to obtain the Diſcharge of extraneous Bodies; ſuch as Bullets, Clothes, Splinters, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall ſoon anſwer that for him: He hath in his <hi>Method of Cure</hi> ſtitched them all hard up long ago, for fear they ſhould have been kept open by tenting. Paſſing his other Repeti<g ref="char:EOLhyphen"/>tions, we come to his Inſtance in the <hi>thirty 6th Page</hi> of two Officers of the Fuſileers; the Matter of Fact to my certain Knowledg was thus:</p>
+            <p>Lieutenant <hi>Fletcher,</hi> the Subject of hsi <hi>4th Experiment,</hi> being one of them, we ſhall refer him to the <hi>Re<g ref="char:EOLhyphen"/>mark</hi> upon that <hi>Experiment;</hi> the o<g ref="char:EOLhyphen"/>ther was wounded with a hollow Blade, the Point entred a little above the <hi>Carpus,</hi> or Wriſt, on the under and inſide; ſo paſſing under the Ar<g ref="char:EOLhyphen"/>tery,
+<pb n="33" facs="tcp:151859:20"/>and rubbing upon ſeveral of the Tendons and Radius, came out about five or ſix Inches upwards from its Entrance.</p>
+            <p>Theſe two Gentlemen were woun<g ref="char:EOLhyphen"/>ded at one time; and although the Doctor is pleaſed to ſhew his Judg<g ref="char:EOLhyphen"/>ment in ſaying the latter was ſlightly wounded, he will nevertheleſs to any unprejudiced Perſon plainly appear to have been more dangerouſly wounded than the other: He was dreſſed by the <hi>Surgeon</hi> to the Regi<g ref="char:EOLhyphen"/>ment; and although about the <hi>four<g ref="char:EOLhyphen"/>teenth</hi> Day there came a Swelling, and ſome Inflammation upon the Part, and that by the <hi>Gentleman's</hi> owned Neglect, yet that was in leſs than <hi>twenty four Hours</hi> removed, and the Gentleman (whatever the Doctor falſly and maliciouſly reports to the contrary) was in leſs than <hi>three Weeks</hi> perfectly well.</p>
+            <pb n="34" facs="tcp:151859:21"/>
+            <p>He goes on in the <hi>thirty 7th and thirty 8th Pages</hi> with the already thread-bare Encomiums of his Medi<g ref="char:EOLhyphen"/>cine; and after a needleſs Caution, forbidding us to believe that he can work Miracles, he refers us for the Proof of all to the fourteen follow<g ref="char:EOLhyphen"/>ing <hi>SExperiments;</hi> which are to him like <hi>Sampſon</hi>'s Locks: but I ſuppoſe with this Difference, that if once they be cut off, they are never like to grow again.</p>
+            <p>Although ſome part of the follow<g ref="char:EOLhyphen"/>ing Experiments have been hitherto Stranger to my Ears, (though al<g ref="char:EOLhyphen"/>ways upon the Place where they pre<g ref="char:EOLhyphen"/>tend to have been acted) I ſhall not therefore conclude that there never were ſuch Perſon in being as the Subjects of them: nevertheleſs, I may (I hope) without breach of ei<g ref="char:EOLhyphen"/>ther Modeſty or Charity, be bold to affirm, (and that uupon good Grounds) that the Matter of Fact in all of them
+<pb n="35" facs="tcp:151859:21"/>is very much different from that Re<g ref="char:EOLhyphen"/>lation the Learned <hi>Author</hi> is here pleaſed to make us: For,</p>
+            <p>Firſt, Such of his <hi>Experiments</hi> which either my own Eyes, or thoſe of my unqueſtionable Evidences have been Witneſſes to, are as far from be<g ref="char:EOLhyphen"/>ing true as reaſonable; as we ſhall ſee in their proper place.</p>
+            <p>Secondly, The <hi>Names</hi> of, and his <hi>Experiments</hi> upon all Perſons who have miſcarried under his hand, (e<g ref="char:EOLhyphen"/>ſpecially ſuch as every one may eaſily inform themſelves of the Truth of) are by him utterly ſuppreſs'd and con<g ref="char:EOLhyphen"/>ceal'd.</p>
+            <p>Thirdly, The Improbability, nay Impoſſibility, which attends the grea<g ref="char:EOLhyphen"/>teſt part of his Relations muſt needs be no ſmall Impediment to their Cre<g ref="char:EOLhyphen"/>dit, with any conſiderate and judici<g ref="char:EOLhyphen"/>ous Perſon.</p>
+            <p>Nevertheleſs, I ſhall not any where in my Remarks upon his following
+<pb n="36" facs="tcp:151859:22"/>Experiments, contradict his pretended Matter of Fact, excepting ſuch as I am able to bring undoubted Proof to the contrary.</p>
+            <p>For the reſt, I ſhall only <hi>(en paſ<g ref="char:EOLhyphen"/>ſant)</hi> obſerve ſome few of his many as well Improbabilities as Inconſiſten<g ref="char:EOLhyphen"/>cies.</p>
+            <div n="1" type="experiment">
+               <head>Remarks upon his Firſt Experiement.</head>
+               <p>THis Experiment tells us of a Per<g ref="char:EOLhyphen"/>ſon run through the Left-arm, and into the Lungs: The Perſon ſays he <hi>found the Sword paſs into the very inmoſt part of his Breaſt;</hi> and I am ſure the Doctor was obliged to take his word, ſince he will not allow Sounding by Probe. By its entring <hi>betwixt the ſecond and third Rib,</hi> I hope he reckons upwards; and then in<g ref="char:EOLhyphen"/>ſtead of the Lungs, the Guts lay next to hand: But ſuppoſe the worſt; <hi>he
+<pb n="37" facs="tcp:151859:22"/>walked that very Day ſix Miles</hi> (I hope he means Flemiſh) <hi>on foot with the Army, without being in the leaſt diſ<g ref="char:EOLhyphen"/>ordred;</hi> Si credere fas ſit.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>Remarks upon his Second Experiment.</head>
+               <p>HEre is a Relation which I have heard far otherwiſt from ſeve<g ref="char:EOLhyphen"/>ral Gentlemen of that Regiment; but ſuppoſe the Matter of Fact true, I do not find it any the leaſt of kin to a Miracle.</p>
+               <p>The Perſon was, as he ſays, <hi>run in<g ref="char:EOLhyphen"/>to the Belly about two Inches above the Navel on the right-ſide; the Sword, as himſelf, and other Spectators ſay, entred at leaſt ſeven or eight Inches.</hi>
+               </p>
+               <p>I muſt needs ſay, that both the Perſon himſelf, and the Spectators too, had either a deal of preſence of Mind, or good Mathematical Eyes; otherwiſe the Perſon who made the Thruſt was ſo deliberate in the Acti<g ref="char:EOLhyphen"/>on,
+<pb n="38" facs="tcp:151859:23"/>as would eaſily have proved pre<g ref="char:EOLhyphen"/>meditated Malice, had he been tried at the <hi>Old Bailey.</hi>
+               </p>
+               <p>He ſays he <hi>believes the Symptoms that attended him, do plainly demon<g ref="char:EOLhyphen"/>ſtrate that both Liver and Inteſtines were wounded:</hi> But for my part, I do not.</p>
+               <p>For neither Vomiting, nor Pain in his Belly, nor Reſtleſneſs, nor e<g ref="char:EOLhyphen"/>ven the Stooling of bloody Excre<g ref="char:EOLhyphen"/>ment, (which are all the Symptoms himſelf gives) are ſufficient to de<g ref="char:EOLhyphen"/>monſtrate the Inteſtines to be woun<g ref="char:EOLhyphen"/>ded; the laſt oftner proceeding from Bruiſs, <hi>&amp;c.</hi> than any thing elſe. How<g ref="char:EOLhyphen"/>ever, by the Uſe of the Pouder and Tiucture, he was preſently well; and <hi>indeed who would not work a little Mi<g ref="char:EOLhyphen"/>racle when their whole Reputation lies at ſtake?</hi>
+               </p>
+            </div>
+            <div n="3" type="experiment">
+               <pb n="39" facs="tcp:151859:23"/>
+               <head>Remarks upon his Third Experiment.</head>
+               <p>WE are now come to that Ex<g ref="char:EOLhyphen"/>periment which gave riſe (though underſervedly) to all its <hi>Au<g ref="char:EOLhyphen"/>thor's</hi> Reputation, and that more by the Ignorance, or at leaſt Inadverten<g ref="char:EOLhyphen"/>cy of ſome other <hi>Surgeons,</hi> than ei<g ref="char:EOLhyphen"/>ther his own Ingenuity or Conduct.</p>
+               <p>The Matter of Fact is; The Perſon of the ſame <hi>Name</hi> and <hi>Regiment</hi> which he relates, was run into the Breaſt: the Surgeon to the Regi<g ref="char:EOLhyphen"/>ment ſounding of the Wound with his Probe, and being alarmed with the rebutting of it by the <hi>Syſtole</hi> and <hi>Diaſtole</hi> of the Heart, did thence raſh<g ref="char:EOLhyphen"/>ly and inconſiderately conclude that the Wound muſt neceſſarily pene<g ref="char:EOLhyphen"/>trate into the Cavity; never conſi<g ref="char:EOLhyphen"/>dering that even the laying of a <hi>Probe</hi> (or the like) upon the Region of the Heart (though without the Skin)
+<pb n="40" facs="tcp:151859:24"/>will give it a conſiderable Motion; but much more if thruſt into, or preſſed upon its more contiguous Muſ<g ref="char:EOLhyphen"/>cles. The <hi>Surgeon</hi> (as is ſaid) being ſurprized, gave the Standers-by but little hopes of his Life; whereupon our <hi>Doctor</hi> was ſent for, and I do be<g ref="char:EOLhyphen"/>lieve cured him, thugh not in ſo ſhort time as he relates.</p>
+               <p>For I am very well aſſured by two credible Perſons, that the Cure was no leſs than ſix Weeks long; which is more than thrice the time it need<g ref="char:EOLhyphen"/>ed, conſidering it neither pentrated, nor was accompained with any con<g ref="char:EOLhyphen"/>ſiderable Hemorogy of Blood: As for <hi>ſuch a Number of Surgeons coming and pulling off his Dreſſings,</hi> the Per<g ref="char:EOLhyphen"/>ſon himſelf will not own.</p>
+            </div>
+            <div n="4" type="experiment">
+               <pb n="41" facs="tcp:151859:24"/>
+               <head>Remarks upon his Fourth Experiment.</head>
+               <p>IT ſeems the <hi>Author</hi> was afraid of coming ſhort in the Number of his Experiments, otherwiſe he would never have inſerted this amongſt his Miracles, being no more than a Wound with a Sword in the fleſhy part of the Thigh; and although I have ſpoke with ſeveral Perſons that ſaw it, I can<g ref="char:EOLhyphen"/>not find it to have been half ſo large as he reports: But ſuppoſe it were, that could but little retard the Cure, ſince neither <hi>Blood-Veſſel</hi> nor <hi>Tendon</hi> was wounded. He does well in aſſig<g ref="char:EOLhyphen"/>ning no definite time for the Cure; becauſe the Gentleman at that time was obliged to go to the Gariſon e're that was effected, and (as I can make appear) was not fit to come to Camp for ſeveral Months after.</p>
+            </div>
+            <div n="5" type="experiment">
+               <pb n="42" facs="tcp:151859:25"/>
+               <head>Remarks upon his Fifth Experiment.</head>
+               <p>THis Experiment gives account of a Perſon <hi>wounded in the Stomach</hi> with a Sword; but his Medi<g ref="char:EOLhyphen"/>cines being uſed according to the uſu<g ref="char:EOLhyphen"/>al Method, immediately removed all the Symptoms; and amongſt others his <hi>Convulſions,</hi> which were very great, were, <hi>ictu oculi,</hi> by the Uſe of his Tin<g ref="char:EOLhyphen"/>cture, taken away; which (by the way) is no ſmall Wonder: For to my certain Knowledg that very <hi>Tin<g ref="char:EOLhyphen"/>cture</hi> hath at other times brought Convulſions even unto Death, upon Perſons who otherwiſe had no Ten<g ref="char:EOLhyphen"/>dency that way; as we ſhall ſee in the Caſe of Capt. <hi>Rogers,</hi> &amp;c. never<g ref="char:EOLhyphen"/>theleſs it cured him, and ſo we leave him.</p>
+            </div>
+            <div n="6" type="experiment">
+               <pb n="43" facs="tcp:151859:25"/>
+               <head>Remarks upon his Sixth Experiment.</head>
+               <p>HEre we are told of a Perſon who had his <hi>Sternum,</hi> or Breaſt<g ref="char:EOLhyphen"/>bone <hi>divided with a Sword;</hi> but whi<g ref="char:EOLhyphen"/>ther according to its Length or Breadth, we have no Account: How<g ref="char:EOLhyphen"/>ever, the <hi>Sword paſſed on into the Lungs</hi> (as he ſays); but it ſeems 'twas <hi>lent</hi> with Mr. <hi>Chomley,</hi> for <hi>he was not ſtrong enough to keep on the Dreſſings a<g ref="char:EOLhyphen"/>gainſt ſuch violent Eruptions of Blood and Air.</hi> Here is a new Mode of Stitch<g ref="char:EOLhyphen"/>ing, the which is hardly reconcilable; and more than that, here is a ſmall Miſtake in the Relation of Matter of Faſt: For,</p>
+               <p>Firſt, The <hi>Lungs</hi> were not touch'd, nor could we find any certain Sign that ever the Wound had penetrated.</p>
+               <p>And, Secondly, he was ſo far from being recovered when he come to the Hoſpital, that had he not thet with
+<pb n="44" facs="tcp:151859:26"/>better Treatment there than he did from him, he had never recovered.</p>
+            </div>
+            <div n="7" type="experiment">
+               <head>Remarks upon his Seventh Experiment.</head>
+               <p>HEre is another Perſon <hi>wounded in the Lungs,</hi> and given over for dead by ſeveral Surgeons; <hi>his Wound had been a Fortnight received, and he in a very bad Condition: never<g ref="char:EOLhyphen"/>theleſs by twice applying his Pouder, he was cured.</hi> By which, I perceive that his Pouder mends upon his hand; for formerly it uſed to work no Won<g ref="char:EOLhyphen"/>ders, except it were firſt applied: However, (to the beſt of my Remem<g ref="char:EOLhyphen"/>brance) I was told of this Accident by the <hi>Surgeon to the Regiment,</hi> that not with ſtanding his Uſe of both <hi>Pou<g ref="char:EOLhyphen"/>der</hi> and <hi>Tincture,</hi> and even that of more effectual Medicines, the Perſon was never like to be well.</p>
+            </div>
+            <div n="8" type="experiment">
+               <pb n="45" facs="tcp:151859:26"/>
+               <head>Remarks upon his Eighth Experiment.</head>
+               <p>WE are here told of a <hi>forth Per<g ref="char:EOLhyphen"/>ſon</hi> wounded in the Lungs; which in my Opinion is not a little ſtrange, that amongſt fourteen Acci<g ref="char:EOLhyphen"/>dents four of them ſhould be upon the Lungs; though I can affirm that I have ſeen five hundred at one time wounded, and not ſo many among them all: But perhaps theſe have been ſent by <hi>ſome ſpecial piece of Providence</hi> for the trial of his Experiments, al<g ref="char:EOLhyphen"/>though I am apter to believe that with him all Wounds in the Breaſt are judged to be in the Lungs; and indeed he is in ſome meaſure excuſa<g ref="char:EOLhyphen"/>ble, ſince he works by gueſs, and finds it againſt his Conſcience to allow of Sounding: nor is there here any cleare Symptoms of this Perſon's being wounded in the Lungs; his ſpitting of Blood and Shortneſs of Breath be<g ref="char:EOLhyphen"/>ing
+<pb n="46" facs="tcp:151859:27"/>more applicable to his former <hi>Cough</hi> than his preſent Wound. But he is pretty modeſt here in aſſigning him no determinate time for his Cure.</p>
+            </div>
+            <div n="9" type="experiment">
+               <head>Remarks upon his Ninth Experiment.</head>
+               <p>WE come now to the Wonder of the whole Book: A Perſon ſhot with a Bullet through the <hi>back part of his Hand, and the Bones of the Metacarp all ſhattered, and Tendons much torn; and yet by ſome few Appli<g ref="char:EOLhyphen"/>cations of his Pouder, he was ſoon cured.</hi>
+               </p>
+               <p>I ſhould be unpardonable if I ſuf<g ref="char:EOLhyphen"/>fered the World to be impoſed upon in this and the following Experiment, having been Eye-witneſs to the whole Matter of Fact in both: this preſent was thus: One <hi>John Wyles</hi> in the Regiment of the Honourable Lord <hi>George Hamilton,</hi> in the Company of Capt. <hi>Hay</hi>'s, was upon the <hi>twenty firſt</hi> of <hi>July</hi> Old Stile, ſher in the Back of
+<pb n="47" facs="tcp:151859:27"/>the Hand; the Bullet entred betwixt that Bone of the <hi>Metacarp</hi> which ſu<g ref="char:EOLhyphen"/>ſtains the Middle and that which ſu<g ref="char:EOLhyphen"/>ſtains the Ring-finger, graſing upon the latter as it entred, broke the for<g ref="char:EOLhyphen"/>mer, and in coming out rubb'd upon that which ſuſtains the Fore-finger. I went with one of his Officers to ſee him next Morning; and he told me he had been dreſſed, but complained of intolerable Pain: Three days af<g ref="char:EOLhyphen"/>ter I made him another viſit, but he had not then been dreſſed a ſecond time. However, the firſt had ſo ting'd the Bandage, and every thing elſe a<g ref="char:EOLhyphen"/>bout it, that it was no hard matter to conclude it a Vitriolike Medicine. I ſaw it ſeveral times after wards, but al<g ref="char:EOLhyphen"/>ways the ſame colour, and a perpetu<g ref="char:EOLhyphen"/>al Flux of crude undigeſted Matter coming from it: When I ſaw it about a Fortnight after, both Orifices were much contracted, and ſome little ſpungy Excreſcences in the Form of
+<pb n="48" facs="tcp:151859:28"/>ſmall Bramble-berries, ſhewing them<g ref="char:EOLhyphen"/>ſelves about its Circumference, with ſtill the ſame quantity and ſort of Matter; and the Patient always com<g ref="char:EOLhyphen"/>plaining of intolerable Pains after dreſſing, which had then been per<g ref="char:EOLhyphen"/>formed <hi>four times;</hi> and then the Hand began to ſwell conſiderably.</p>
+               <p>I viſited him again the <hi>Twentieth</hi> of <hi>Auguſt,</hi> with the Chaplain to the Regiment and ſeveral others: I then found his Hand prodigiouſly ſwelled ſo, that he could not ſo much as move one of his Fingers. I asked him how he found it? He anſwered me <hi>very well,</hi> to my no ſmall Admi<g ref="char:EOLhyphen"/>ration: But looking about, and ſee<g ref="char:EOLhyphen"/>ing ſome of his Tent-mates, I asked them if he was not diſtracted? But they <hi>(laughing)</hi> told me, <hi>that e're I came the Doctor had been there, and given him two Shillings upon Condition he ſhould make that Anſwer to any one who ſhould ask him how he did.</hi> The
+<pb n="49" facs="tcp:151859:28"/>
+                  <hi>Perſon</hi> himſelf being taxed with it, could not deny it; but this he did alſo to his <hi>Comerade</hi> in the next Ex<g ref="char:EOLhyphen"/>periment, and ſeveral others.</p>
+               <p>This was at the Camp at <hi>Wining<g ref="char:EOLhyphen"/>ham,</hi> and after <hi>the long March</hi> which he mentions; neither had it at that time diſcharged any of that vaſt number of Bones which himſelf ſays it diſcharged afterwards, nor do I believe 'tis well to this day.</p>
+            </div>
+            <div n="10" type="experiment">
+               <head>Remarks upon his Tenth Experiment.</head>
+               <p>
+                  <hi>ANdrew Chriſty,</hi> in the ſame Re<g ref="char:EOLhyphen"/>giment and Company, was wounded at the ſame time with the former. For the moſt part I viſited them both together: He was ſhot with a Brace of Bullets; one of them grazed, but very ſuperficially, be<g ref="char:EOLhyphen"/>twixt two of his Ribs; the other af<g ref="char:EOLhyphen"/>ter having grazed a little way lodg<g ref="char:EOLhyphen"/>ed, but very ſuperficially alſo. This,
+<pb n="50" facs="tcp:151859:29"/>as the other always, complained of exceſſive Pain. After Dreſſing (as himſelf ſays) they always diſcharged a great quantity of ſerous Matter. I viſited him the Fourth of <hi>Auguſt,</hi> Old Stile, and took alſo ſeveral o<g ref="char:EOLhyphen"/>thers along with me; when he not only complained of exceſſive Pains in that Side, but likewiſe over all the reſt of his Body; was very feveriſh: and I am fully ſatisfied (although the <hi>Doctor</hi> ſays he was but three Weeks under Cure) that he was above a Month from that time.</p>
+            </div>
+            <div n="11, 12, 14" type="experiment">
+               <head>Remarks upon his Eleventh, Twelfth, and Fourteenth Experiments.</head>
+               <p>THeſe <hi>three Experiments</hi> I con<g ref="char:EOLhyphen"/>feſs I am altogether a Stran<g ref="char:EOLhyphen"/>ger to; but if there be either any ſuch Perſons or matter of Fact, I ſhall in a very little time be able to give a full and unqueſtionable Account of
+<pb n="51" facs="tcp:151859:29"/>them, and they ſhall be publiſhed by way of Advertiſements, either in the Gazette or elſewhere: However, ſuppoſe his own Relation to be in all Points true, (which I do believe is more than any reaſonable Perſon will do, conſidering the reſt have been generally falſe) I have known far greater Cures done with leſs than half the noiſe.</p>
+            </div>
+            <div n="13" type="experiment">
+               <head>Remarks upon his Thirteenth Expe<g ref="char:EOLhyphen"/>riment.</head>
+               <p>THe Maker has got as little Re<g ref="char:EOLhyphen"/>putation by this Experiment, as he hath uſed Truth in the Rela<g ref="char:EOLhyphen"/>tion of it.</p>
+               <p>The <hi>Gentlemans</hi> Name was <hi>Lor<g ref="char:EOLhyphen"/>ring,</hi> in the Honourable Brigadeer <hi>Lumley</hi>'s Regiment: He ſays he <hi>re<g ref="char:EOLhyphen"/>ceived a ſlight Wound under the right Arm-pit, the Axillary Artery being al<g ref="char:EOLhyphen"/>ſo prick'd, upon which enſued a large Flux of Blood.</hi>
+               </p>
+               <pb n="52" facs="tcp:151859:30"/>
+               <p>A notable piece of Inconſiſtency; <hi>a ſlight Wound, and yet the Axillary Artery pricked.</hi>
+               </p>
+               <p>He ſays the Blood was ſoon ſtop'd, or <hi>rather pent in by Mr.</hi> Engliſh <hi>Surgeon to the Regiment;</hi> however, it was more than he could do after<g ref="char:EOLhyphen"/>wards, by all his big Pretenſions.</p>
+               <p>'Tis true, that after ſome time there happened a freſh Flux of Blood, which was the Occaſion that <hi>he</hi> was called, but (at leaſt) miſtakes when he ſays they uſed red hot irons to ſtop it; though I do believe they had better done it, than truſted to his Pouder, as they did to the (at leaſt) anticipating their Patient's De<g ref="char:EOLhyphen"/>ſtruction.</p>
+               <p>His Arm was but little ſwell'd, and not at all mortified; nor did he loſt (before that time) one ſixth part of the Blood which he mentions. When he came firſt to the Patient, he was asked by Mr. <hi>Hall,</hi> whether
+<pb n="53" facs="tcp:151859:30"/>any thing that had been formerly ap<g ref="char:EOLhyphen"/>plied might hinder the Effect of his Medicine? He readily anſwered, <hi>Not at all;</hi> and, immediately proceeded to his Application, which he repea<g ref="char:EOLhyphen"/>ted once and again with the ſame Suc<g ref="char:EOLhyphen"/>ceſs, and then gave him a Doſe of his Tincture, which did not fail of its wonted Effect, in convulſing the Pa<g ref="char:EOLhyphen"/>tient to that degree, that he was not relieved without the utmoſt Care and Induſtry of the <hi>Surgeons,</hi> and other <hi>Gentlemen</hi> there preſent.</p>
+               <p>However, his repeating his Appli<g ref="char:EOLhyphen"/>cations ſo many times, and as often ſlacking the Turneke to ſee whether it had taken effect, cauſe ſuch an ad<g ref="char:EOLhyphen"/>ditional Expence of Blood and Pain, that in about three hours after he died in the Doctor's own Preſence; who had the Mortification to ſee not only his own, but all the Spectators Hopes eluded: being never in the leaſt able ſo much as to check the Hemorogy
+<pb n="54" facs="tcp:151859:31"/>without the Uſe of the Turneke. This is Matter of Fact, and certified by ſo many Witneſſes that there is not the leaſt Ground of Suſpicion left.</p>
+            </div>
+            <div n="15" type="experiment">
+               <head>Remarks upon his <hi>15th</hi> Experiment.</head>
+               <p>THere are ſeveral other Experi<g ref="char:EOLhyphen"/>ments no leſs conſiderable than the former; which the Doctor's ei<g ref="char:EOLhyphen"/>ther Modeſty or Memory hath not ſerved him to inſert: I ſhall do him that Service, and ſubjoin them to the reſt, leſt his Treatiſe ſhould want ſo much of being compleat.</p>
+               <p>The firſt of them is an Experiment made upon a Man in St. <hi>Bartholomew's Hoſpital;</hi> whoſe diſeaſed Arm was amputated above the Elbow: but for above a quarter of an Hour's time ma<g ref="char:EOLhyphen"/>ny ſucceſleſs Applications of his Stip<g ref="char:EOLhyphen"/>tick were made, and at length a ſmall Tent dipp'd in the Pouder it ſelf in<g ref="char:EOLhyphen"/>ſerted into the Extremity of the bleed<g ref="char:EOLhyphen"/>ing
+<pb n="55" facs="tcp:151859:31"/>Artery, before the Flux of Blood would admit the Application of Ban<g ref="char:EOLhyphen"/>dage.</p>
+               <p>A few hours after, a freſh Flux of Blood appeared; which obliged them to have recourſe to their ordinary Method upon ſuch Occaſions.</p>
+            </div>
+            <div n="16" type="experiment">
+               <head>Remarks upon his <hi>16th</hi> Experiment.</head>
+               <p>THat ſame Morning and Place the above-mentioned <hi>Amputa<g ref="char:EOLhyphen"/>tion</hi> was made, a Boy about 12 Years of Age had his Leg taken off below the Knee; who had many and re<g ref="char:EOLhyphen"/>peated ſucceſleſs Applications of this pretended Stiptick made to his bleed<g ref="char:EOLhyphen"/>ing Stump, before it could be got bound up; and in leſs than an Hour after, a freſh Flux of Blood was to be ſeen, and not to be reſtrained without ſome more effectual Methods.</p>
+               <p>Some few Hours after the Operati<g ref="char:EOLhyphen"/>ons, both theſe Patients ſuffered exceſ<g ref="char:EOLhyphen"/>ſive Pains.</p>
+               <pb n="56" facs="tcp:151859:32"/>
+               <p>Three Days after, when the Appli<g ref="char:EOLhyphen"/>cations were taken off, had any Per<g ref="char:EOLhyphen"/>ſon, a Stranger to what had been done, ſeen the Stumps, he would have ſup<g ref="char:EOLhyphen"/>poſed that nothing leſs than the Ap<g ref="char:EOLhyphen"/>plication of an actual Cautery could have cauſed ſuch large Eſchars and horrid Appearances; which did ſuf<g ref="char:EOLhyphen"/>ficiently demonſtrate this <hi>his Anodyne Pouder</hi> (as he calls it) to be a violent Cauſtick.</p>
+               <p>The Doctor can here make no Ob<g ref="char:EOLhyphen"/>jection; for his Pouder was applied with all imaginable Fairneſs, in his own Preſence: nor hath he any Rea<g ref="char:EOLhyphen"/>ſon to believe that thoſe <hi>Surgeons</hi> who uſed it in the <hi>Hoſpital,</hi> had the leaſt deſign to hinder its Succeſs, ſince it's well known they were rather preju<g ref="char:EOLhyphen"/>diced in its favour than to the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p>This Account was printed in the <hi>Philoſophical Tranſactions</hi> for <hi>Feb.</hi> 1693/4. and atteſted by ſo many Perſons then
+<pb n="57" facs="tcp:151859:32"/>preſent, that 'tis beyond the Power or Malice of Man to render it ſuſpected.</p>
+            </div>
+            <div n="17" type="experiment">
+               <head>Remarks upon his <hi>17th</hi> Experiment.</head>
+               <p>CApt. <hi>Rogers,</hi> in my Lord <hi>Caſtle<g ref="char:EOLhyphen"/>ton</hi>'s Regiment, upon the <hi>18th</hi> of <hi>Auguſt</hi> Old Stile, Twelve at Night, being near the King's Quarters at <hi>Wi<g ref="char:EOLhyphen"/>ningham</hi> in a Coffee-Tent, in a Ren<g ref="char:EOLhyphen"/>counter received a ſlight Thruſt into the Belly, a little below the Navel. Amongſt other Gentlemen, Col. <hi>Tid<g ref="char:EOLhyphen"/>comb</hi> was there preſent; who having ſome of Mr. <hi>Colbatch</hi>'s Pouder about him, cauſed it immediately to be ap<g ref="char:EOLhyphen"/>plied by one of the Gentlemen there preſent, according to the Directions he had received with it; and immedi<g ref="char:EOLhyphen"/>ately ſent for Mr. <hi>Colbatch</hi> himſelf, who ſent his <hi>Friend</hi> who had formerly done all his Buſineſs. He gave him ſome of his Tincture in a Glaſs of Sack, as u<g ref="char:EOLhyphen"/>ſual; which being ſeveral times re<g ref="char:EOLhyphen"/>peated
+<pb n="58" facs="tcp:151859:33"/>in ſome few hours, brought the Gentleman into a raging Fever, and ſoon after into ſuch violent Convul<g ref="char:EOLhyphen"/>ſions as coſt him his Life.</p>
+               <p>He died the next Morning; and al<g ref="char:EOLhyphen"/>though the Wound was made by an indifferent broad Sword, yet it was not to be traced into the Cavity of the <hi>Abdomen</hi> by the fineſt <hi>'Probe.</hi>
+               </p>
+               <p>It was unanimouſly concluded by all there preſent, that the Tincture, together with the large quantit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Wine which he received it in, was the only Cauſe of his Death; and in my Judgment very reaſonably, conſider<g ref="char:EOLhyphen"/>ing that it is next to impoſſible that any ſuch Wound in that Place, ſhould have done it (if at all) in a good many days. I was preſent my ſelf, and took this Account in my Pocket-Book, and could inſert the Names of many very worthy Gentlemen; but ſhall be ſo mannerly at preſent to forbear, and do think I have given the Inquiſitive
+<pb n="59" facs="tcp:151859:33"/>already light enough to find out the Matter.</p>
+            </div>
+            <div n="18" type="experiment">
+               <head>Remarks upon his <hi>18th</hi> Experiment.</head>
+               <p>ONe Mr. <hi>Edward Dunn,</hi> belong<g ref="char:EOLhyphen"/>ing to the <hi>Cock-pit,</hi> being woun<g ref="char:EOLhyphen"/>ded in the Hand by a <hi>Cock's Spur;</hi> and being drawn to Mr. <hi>Colbatch</hi> by the loud Report of his famous Pouder, promiſed himſelf a more than ordinary ſafe and ſpeedy Cure: The <hi>Doctor</hi> did no leſs; and having applied his Pouder, promiſed him there ſhould be no occaſion for a ſecond Application; and truly he had like to have played the Prophet: for (to uſe the Patient's own Words) inſtead of a Cure, he was forced to go to Mr. <hi>Johnſon</hi> a Sur<g ref="char:EOLhyphen"/>geon in <hi>Sheer-lane</hi> to take care of it, otherwiſe he muſt have loſt his Hand; for that Application ſo ſwelled and inflamed his Hand, that the Pain of it threw him into a Fever. I have uſed
+<pb n="60" facs="tcp:151859:34"/>his own Words, in a Certificate to me under his own Hand.</p>
+               <p>I have mentioned this, and ſome of the foregoing Obſervations, becauſe they are at the door, and every one may eaſily inform themſelves of the Truth of them: But <hi>this</hi> in parti<g ref="char:EOLhyphen"/>cular, becauſe being a ſlight Wound, and the Perſon of a good habit of Body, that were not his Medicine the very bane of Nature, it could never produce ſuch horrible Effects.</p>
+               <p>I could add ſeveral other Obſerva<g ref="char:EOLhyphen"/>tions as little for his Reputation as the former; but do believe theſe e<g ref="char:EOLhyphen"/>nough for both the Satisfaction and Information of any conſiderate and unprejudiced Perſon.</p>
+            </div>
+            <div type="part">
+               <pb n="61" facs="tcp:151859:34"/>
+               <head>The Deſcription of his <hi>Pouder</hi> and <hi>Tincture.</hi>
+               </head>
+               <p>'TIS a hard matter peremptorily to aſſert what Ingredients, and in what Proportion almoſt any Compoſition conſiſts of; but accord<g ref="char:EOLhyphen"/>ing to the ſeveral Experiments made upon this Pouder both by my ſelf, and <hi>ſeveral other Perſons, (whoſe Judgments are not a little to be reverenced, whoſe pro<g ref="char:EOLhyphen"/>per Profeſſion it is to be converſant in chymical Matters)</hi> the Pouder conſiſts of a Vitriol of Copper, and that either <hi>Roman,</hi> which is purely ſo; or <hi>Dant<g ref="char:EOLhyphen"/>zick,</hi> which hath a ſmall Mixture of Iron. By its Sweetneſs it ſeems to have ſome <hi>Sugar of Lead</hi> in it, rather for its diſguiſing than bettering. As for its Preparation, take which <hi>Vitriol</hi> you pleaſe; and expoſe it to a hot and dry Air, free from Duſt, (having firſt groſ<g ref="char:EOLhyphen"/>ly
+<pb n="62" facs="tcp:151859:35" rendition="simple:additions"/>bruiſed it) and 'twill turn in a ſmall time to a whitiſh impalpable Pouder. As for its Incarnate Gloſs, that may ea<g ref="char:EOLhyphen"/>ſily be given it by either <hi>Sanguis dra<g ref="char:EOLhyphen"/>conis,</hi> or any other red Body. Any Per<g ref="char:EOLhyphen"/>ſon will eaſily be convinced of the Truth of what I ſay, if he will but take a piece of poliſh'd Iron, and wetting it with his Spittle, and rub a little of his Pouder upon it, 'twill immediate<g ref="char:EOLhyphen"/>ly turn to a copperiſh Colour; or if he precipitates a Solution of it by ſome few Drops of <hi>Spiritus ſalis Armo<g ref="char:EOLhyphen"/>niaci,</hi> or the like, he will find the <hi>Vitri<g ref="char:EOLhyphen"/>ol</hi> immediately fall to bottom; leaving that other body, with<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> which 'twas ting'd ſwimming on the top of the Water, or adhering to the ſides.</p>
+               <p>I am nevertheleſs apter to believe the Vitriol rather to be a <hi>Dantzick</hi> than a <hi>Roman,</hi> becauſe the former is cheaper than the latter, though one would think the exorbitant Rate of his Medicine might be able to reach
+<pb n="63" facs="tcp:151859:35"/>the deareſt of them. By what hath been ſaid in the Deſcription of it, I ſuppoſe the beſt Way of applying of it will eaſily appear to be to throw it into ſome naſty Puddle of Water; which by its Filth, is excuſed from the uſe of Man and Beaſt.</p>
+               <p>As for the <hi>Tincture,</hi> if we had no o<g ref="char:EOLhyphen"/>ther, himſelf hath given us ſome Light into the Matter; for he ſays, in a Sheet publiſhed by him laſt Year, that it's of the ſame family with the Pouder, (to ſay Truth, it's pity two ſhould be troubled with them).</p>
+               <p>It certainly conſiſts of a Mixture of Oil of Vitriol, and Spirit of Wine; as may eaſily be diſcovered both by its Smell and Taſte. 'Tis an Acid, becauſe of its Efferveſcence with Volatile Salts. That it hath a Mixture of Spirit of Wine, appears by dipping your Finger in it, and touching it with the Flame of a Candle; for it immediately conceives Flame, which continues to the Con<g ref="char:EOLhyphen"/>ſumption
+<pb n="64" facs="tcp:151859:36"/>of the Spirit, and leaves your Finger only wet with the Flagme.</p>
+               <p>But 'tis ſometimes no more than a Solution of his Pouder, and then one may eaſily precipitate the Vitriol from it. As for its Colour, that may be given it ſo many ways, and is ſo little eſſential to the Medicine, that 'tis not worth Inquiry.</p>
+               <p>Though the Tincture be of the ſame family, yet it's not ſo antient as the Pouder; for it was not ſo much as heard of at theſe Experiments in St. <hi>Bartholomew's Hoſpital,</hi> tho' its Author had never more need of it: But I do ve<g ref="char:EOLhyphen"/>rily believe Neceſſity was the Mother of that Invention; for his Pouder be<g ref="char:EOLhyphen"/>ing there ſo publickly diſgraced, he was obliged to trump up another Me<g ref="char:EOLhyphen"/>dicine to ſupply its Defect, and make up the Pair.</p>
+               <pb facs="tcp:151859:36"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
